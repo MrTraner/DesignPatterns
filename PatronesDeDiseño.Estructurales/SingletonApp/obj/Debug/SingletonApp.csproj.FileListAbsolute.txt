@@ -1,0 +1,7 @@
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\bin\Debug\SingletonApp.exe.config
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\bin\Debug\SingletonApp.exe
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\bin\Debug\SingletonApp.pdb
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\obj\Debug\SingletonApp.csprojAssemblyReference.cache
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\obj\Debug\SingletonApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\obj\Debug\SingletonApp.exe
+C:\Users\Mauricio\source\repos\PatronesDeDiseño.Estructurales\SingletonApp\obj\Debug\SingletonApp.pdb
